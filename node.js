@@ -1,5 +1,3 @@
-// class example copied from picture:
-
 // const http = require("http");
 
 // const server = http.createServer((req, res) => {
@@ -36,7 +34,6 @@
 //   });
 // });
 
-//my example:
 const http = require("http");
 
 const server = http.createServer((req, res) => {
@@ -72,6 +69,3 @@ const server = http.createServer((req, res) => {
     console.log("Server running at http://localhost:3000/");
   });
 });
-
-
-

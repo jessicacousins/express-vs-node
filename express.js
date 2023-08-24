@@ -1,6 +1,3 @@
-// class example copied from picture:
-
-// my example
 // express example
 // const express = require("express");
 // const app = express();
@@ -35,7 +32,6 @@
 //   });
 // });
 
-//my example
 const express = require("express");
 const app = express();
 
